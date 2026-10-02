@@ -1,0 +1,9 @@
+{
+  "dry_run": true,
+  "from_clean_data": true,
+  "gender": true,
+  "gender_use_api": false,
+  "location": true,
+  "location_count": true,
+  "active": true
+}

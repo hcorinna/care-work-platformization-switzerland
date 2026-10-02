@@ -1,0 +1,9 @@
+{
+  "platforms": [
+    "GreatAuPair.Workers"
+  ],
+  "chunk": null,
+  "preload": false,
+  "plz_filter": "",
+  "plz_list": null
+}

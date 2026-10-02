@@ -1,0 +1,5 @@
+{
+  "scraper_runs_dir": "scraper_runs",
+  "logs_dir": "loggers",
+  "data_dir": "data/raw"
+}

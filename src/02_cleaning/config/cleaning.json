@@ -1,0 +1,6 @@
+{
+  "dry_run": true,
+  "cleaners": [
+    "GreatAuPair_Cleaner.GreatAuPair_Workers_Cleaner"
+  ]
+}

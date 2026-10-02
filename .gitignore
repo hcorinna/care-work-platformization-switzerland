@@ -1,0 +1,31 @@
+# Secrets and credentials
+.env
+.env.*
+*.env
+credentials.json
+
+# Data, logs and outputs (record-level data is private)
+data/
+loggers/
+scraper_runs/
+outputs/
+failed_plz/
+src/03_preprocessing/gender_data.csv
+
+# Caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+nominatim_cache*.json
+src/shared/cache/
+
+# Local environment
+.venv/
+.DS_Store
+
+# Local working folders
+data_processing/
+Meetings/
+MisGrosi/
+analysis/
+test.ipynb
